@@ -242,7 +242,12 @@ When comparing the performance between the training and the test data, we can ag
 **More info**
 Refer to the Notebook and/or presentation
 
+Notebook: https://github.com/anvadev/Phase_3_Project/blob/main/00.%20SyriaTel_EDA_Model%20(Final).ipynb
+Prsentation: https://github.com/anvadev/Phase_3_Project/blob/main/Phase%203%20Project%20_%20SyriaTel%20Churn%20Prediction.pptx
 
+Contact information:
+Ansel Vallejo
+ansel.vallejo@gmail.com
 
 
 
